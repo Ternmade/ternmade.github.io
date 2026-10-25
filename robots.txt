@@ -1,0 +1,7 @@
+# Search discovery is independent of model-training permissions.
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://ternmade.com/sitemap.xml
+Sitemap: https://ternmade.github.io/nearstep/sitemap.xml
+Sitemap: https://ternmade.github.io/folumi/sitemap.xml
